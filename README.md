@@ -22,7 +22,7 @@ will guide your analysis:
 
 3. How could these trends help influence Bellabeat marketing strategy
 
-#Dataset to be used
+# Dataset to be used
 
 https://www.kaggle.com/arashnic/fitbit
 
