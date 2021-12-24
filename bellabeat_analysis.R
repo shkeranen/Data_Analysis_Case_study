@@ -140,3 +140,4 @@ merged<- merged %>%
 #Transfering the data to csv for data viz in Tableau & Sheets.
 write.csv(merged,"C:\\Users\\selja\\Documents\\R\\capstone\\bellabeat.csv", row.names = FALSE)
 
+
